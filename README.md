@@ -36,7 +36,7 @@ Cada equipo deberá implementar los componentes solicitados en su **fork**, y al
   - `data/train_linear.csv`  
   - `data/train_nonlinear.csv`  
   - `data/hidden_test.csv`
-- **Etiquetas:** usar \( y \in \{-1, +1\} \).
+- **Etiquetas:** usar $ y \in \{-1, +1\} $.
 
 ---
 
