@@ -331,5 +331,5 @@ git checkout -b fase2/team-alpha
 
 ---
 
-© Facultad de Ingeniería — Laboratorio de Aprendizaje Automático · 2025
+© Facultad de Ciencias — Laboratorio de Aprendizaje Automático · 2025
 
