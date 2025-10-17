@@ -193,7 +193,7 @@ git status
 
 ### 5. Guardar y subir cambios al fork
 ```bash
-git add [nombredelequipo_faseX].py  <- archivo a mergear
+git add [nombredelequipo_faseX].py  # Archivo a mergear
 git commit -m "feat(fase2): entrenamiento lineal con SGD"
 git push origin fase2/equipo
 ```
